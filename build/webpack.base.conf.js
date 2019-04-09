@@ -1,5 +1,6 @@
 'use strict'
 const path = require('path')
+const io = require('socket.io')
 const utils = require('./utils')
 const config = require('../config')
 const vueLoaderConfig = require('./vue-loader.conf')

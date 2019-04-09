@@ -14,7 +14,7 @@
 		      <img slot="icon" src="./assets/demo/img_address.png">
 		      <span slot="label">聊天</span>
 		    </tabbar-item>
-		    <tabbar-item selected link="/components/address">
+		    <tabbar-item selected link="/components/addressBook">
 		      <img slot="icon" src="./assets/demo/img_address.png">
 		      <span slot="label">通讯录</span>
 		    </tabbar-item>

@@ -6,10 +6,10 @@
 
 <script>
 export default {
-  name: 'address',
+  name: 'addressBook',
   data () {
     return {
-      msg: 'address'
+      msg: 'addressBook'
     }
   },
   components: {
